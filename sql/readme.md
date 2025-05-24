@@ -1,1 +1,1 @@
-
+# SQL scripts folder
